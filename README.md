@@ -1,6 +1,6 @@
 Courtly
 =======
-A web implementation of the popular card game _Love Language_.
+A web implementation of the popular card game _Love Letter_.
 ![Art by Connie Lim](http://i.imgur.com/IpVia2y.jpg?1 "Decked Out: Fashion Playing Cards by Connie Lim")
 
 Planning
