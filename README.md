@@ -4,7 +4,7 @@ A web implementation of the popular card game _Love Letter_.
 
 ![Art by Connie Lim](http://i.imgur.com/IpVia2y.jpg?1 "Decked Out: Fashion Playing Cards by Connie Lim")
 
-_Art by Connie Lim — [Decked Out: Fashion Playing Cards](http://i.imgur.com/IpVia2y.jpg?1)_
+_Art by Connie Lim — [Decked Out: Fashion Playing Cards](http://prints.connielim.com/product/deck-of-fashion-playing-cards)_
 
 Planning
 --------
